@@ -16,4 +16,4 @@ Windows: `winget install --id Typst.Typst`
 macOS: `brew install tinymist`
 
 ### tinymist VSCode extension
-[VSCode]([https://github.com/Myriad-Dreamin/tinymist](https://marketplace.visualstudio.com/items?itemName=myriad-dreamin.tinymist))
+[VSCode](https://marketplace.visualstudio.com/items?itemName=myriad-dreamin.tinymist)
